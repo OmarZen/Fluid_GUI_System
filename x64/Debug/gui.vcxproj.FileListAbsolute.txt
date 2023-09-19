@@ -1,0 +1,10 @@
+C:\Users\omarw\Desktop\fluid assignment\gui\x64\Debug\gui.vcxproj.AssemblyReference.cache
+C:\Users\omarw\Desktop\fluid assignment\gui\x64\Debug\gui.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\omarw\Desktop\fluid assignment\gui\x64\Debug\gui.exe
+C:\Users\omarw\Desktop\fluid assignment\gui\x64\Debug\gui.MyForm.resources
+C:\Users\omarw\Desktop\fluid assignment\gui\x64\Debug\gui.vcxproj.GenerateResource.cache
+D:\Third Year_first_term\fluid assignment\gui\x64\Debug\gui.vcxproj.AssemblyReference.cache
+D:\Third Year_first_term\fluid assignment\gui\x64\Debug\gui.vcxproj.SuggestedBindingRedirects.cache
+D:\Third Year_first_term\fluid assignment\gui\x64\Debug\gui.MyForm.resources
+D:\Third Year_first_term\fluid assignment\gui\x64\Debug\gui.vcxproj.GenerateResource.cache
+D:\Third Year_first_term\fluid assignment\gui\x64\Debug\gui.exe
